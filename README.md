@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphmotta&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-  ##
+  ## Tecnologias que utilizo e estudo atualmente
  
 
 <div style="display: inline_block"><br>
@@ -24,7 +24,8 @@
     <img align="center" alt="motta-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
- ##
+ ## Apaixonado por tecnologia, evoluindo na programação.
+
   
 <div> 
   <a href="https://instagram.com/ativitecti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
