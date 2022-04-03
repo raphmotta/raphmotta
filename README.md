@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando back-end
-- 📫 E-mail: raphael.amaral.ti@gmail.com
+- 📫 E-mail: raphmotta@hotmail.com
 
 <div align="left">
   <a href="https://github.com/raphmotta">
